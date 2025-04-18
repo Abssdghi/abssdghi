@@ -25,3 +25,18 @@ Here are some things I've built lately:
 
 ### 🛠 Tech Stack
 
+
+---
+
+### 📫 Contact
+
+Wanna collaborate or just say hi?
+
+- 🐦 Telegram: [@yourusername](https://t.me/yourusername)
+- 📬 Email: `your.email@example.com`
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+calmly.;Ship+silently.;Stay+simple.&center=true&width=380&height=45">
+</p>
