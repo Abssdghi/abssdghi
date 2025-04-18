@@ -24,7 +24,7 @@ Here are some things I've built lately:
 
 ### 🛠 Tech Stack
 
-Python • HTML,CSS,JavaScript • Java • Flutter • Telegram Bots • Minimal UI/UX 
+Python • HTML • CSS • JavaScript • Java • Flutter • Telegram Bots • Minimal UI/UX 
 
 
 ---
