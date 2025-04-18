@@ -32,8 +32,8 @@ Here are some things I've built lately:
 
 Wanna collaborate or just say hi?
 
-- 🐦 Telegram: [@yourusername](https://t.me/yourusername)
-- 📬 Email: `your.email@example.com`
+- 🐦 Telegram: [ClickMe](https://t.me/Onesidedlimit)
+- 📬 Email: `abbas.sadeghi1384@gmail.com`
 
 ---
 
