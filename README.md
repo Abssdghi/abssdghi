@@ -1,42 +1,33 @@
-<h1 align="center">Abssdghi</h1>
+
+<h1 align="center">root@Abssdghi:~#</h1>
 
 <p align="center"><i>born to be simple</i></p>
 
 ---
 
-### 🧠 About Me
+```
+[+] system: minimal  
+[+] language: python, bash  
+[+] terminal: black  
+[+] mission: build, deploy, vanish.  
+```
+---
 
-- 🧘 I believe in minimalism — in life and in code.
-- 💻 I build tools that stay out of your way.
-- ⚙️ Mostly into Python, a bit of everything else when needed.
-- 🕶️ Less talk, more shipping.
+### 🚀 recent drops:
+
+- [ ] **PicTask**: task manager with image input  
+- [ ] **RandibaBot**: Telegram randomness generator  
+- [ ] **SimpleTools**: minimal Python utilities  
 
 ---
 
-### 🚀 Featured Projects
-
-Here are some things I've built lately:
-
-- 🔹 [PicTask](https://github.com/Abssdghi/PicTask): a simple task management tool with image input. Visual, minimal, focused.
-- 🔹 [RandibaBot](https://github.com/Abssdghi/RandibaBot): Telegram bot for generating randomness with style.
-- 🔹 [Kian's Salvation](https://github.com/Abssdghi/kian-s-salvation-game): a mini neon acid game with JS.
-
----
-
-### 🛠 Tech Stack
-
-
----
-
-### 📫 Contact
-
-Wanna collaborate or just say hi?
-
-- 🐦 Telegram: [ClickMe](https://t.me/Onesidedlimit)
-- 📬 Email: `abbas.sadeghi1384@gmail.com`
-
+```
+# contact:  
+# tg > @yourusername  
+# mail > your.email@example.com
+```
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+calmly.;Ship+silently.;Stay+simple.&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=booting...;system+online...;deploying...;&center=true&width=400&height=45">
 </p>
