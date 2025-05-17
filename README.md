@@ -29,5 +29,5 @@ Wanna collaborate or just say hi?
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+calmly.;Ship+silently.;Stay+simple.&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=It's+so+easy+to+be+complicated+It's+so+hard+to+be+simple;&center=true&width=380&height=45">
 </p>
