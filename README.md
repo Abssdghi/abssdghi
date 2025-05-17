@@ -2,16 +2,6 @@
 
 <p align="center"><i>born to be simple</i></p>
 
----
-
-### 🧠 About Me
-
-- 🧘 I believe in minimalism — in life and in code.
-- 💻 I build tools that stay out of your way.
-- 🕶️ Less talk, more shipping.
-
----
-
 ### 🚀 Featured Projects
 
 Here are some things I've built lately:
