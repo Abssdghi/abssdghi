@@ -1,6 +1,3 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=435&lines=Python;Telegram+Bots;Django;Flutter;Java;Laravel;HTML+CSS+JS;PHP" alt="typing intro">
-</h2>
 
 <pre align="center">
 <span style="color:#00FF00; font-family:monospace;">
@@ -12,5 +9,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+calmly.;Ship+silently.;Stay+simple.&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=>+python;>+telegram+bots;>+django+backend;>+flutter;>+laravel&center=true&width=380&height=45">
 </p>
