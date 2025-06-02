@@ -9,3 +9,8 @@
 > Boot complete.
 </span>
 </pre>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code+calmly.;Ship+silently.;Stay+simple.&center=true&width=380&height=45">
+</p>
