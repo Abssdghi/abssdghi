@@ -5,10 +5,10 @@ Passionate about writing clean, efficient code <br> whether it's automating task
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/sDJKtdvr/python.png" height="90" alt="python logo"  />
-  <img src="https://i.postimg.cc/TY2n5yYz/websc.png" height="90" alt="webscraping logo"  />
-  <img src="https://i.postimg.cc/TPmpyG8L/tgbots.png" height="90" alt="tg logo"  />
-  <img src="https://i.postimg.cc/ZntVhJ8T/php2.png" height="90" alt="php logo"  />
-  <img src="https://i.postimg.cc/BbRs3Lhj/laravel.png" height="90" alt="laravel logo"  />
-  <img src="https://i.postimg.cc/tTZpMN5K/django.png" height="90" alt="django logo"  />
+  <span><img src="https://i.postimg.cc/sDJKtdvr/python.png" height="90" alt="python logo" /></span>
+  <span><img src="https://i.postimg.cc/TY2n5yYz/websc.png" height="90" alt="webscraping logo" /></span>
+  <span><img src="https://i.postimg.cc/TPmpyG8L/tgbots.png" height="90" alt="tg logo" /></span>
+  <span><img src="https://i.postimg.cc/ZntVhJ8T/php2.png" height="90" alt="php logo" /></span>
+  <span><img src="https://i.postimg.cc/BbRs3Lhj/laravel.png" height="90" alt="laravel logo" /></span>
+  <span><img src="https://i.postimg.cc/tTZpMN5K/django.png" height="90" alt="django logo" /></span>
 </div>
