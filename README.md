@@ -1,5 +1,5 @@
 <br><samp>
-Passionate about writing clean, efficient code — whether it's automating tasks, scraping data, or building backends that scale.
+Passionate about writing clean, efficient code <br> whether it's automating tasks, scraping data, or building backends that scale.
 <br></samp>
 
 
