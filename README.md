@@ -1,18 +1,15 @@
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300" />
 </div>
+
 <p align="center">
-<br><samp>
-Passionate about writing clean, efficient code <br> whether it's automating tasks, scraping data, or building backends that scale.
-<br></samp>
+  <samp>
+  Passionate about coding.
+  </samp>
 </p>
 
 <div align="center">
-  <span><img src="https://i.postimg.cc/sDJKtdvr/python.png" height="90" alt="python logo" /></span>
-  <span><img src="https://i.postimg.cc/TY2n5yYz/websc.png" height="90" alt="webscraping logo" /></span>
-  <span><img src="https://i.postimg.cc/TPmpyG8L/tgbots.png" height="90" alt="tg logo" /></span>
-  <span><img src="https://i.postimg.cc/ZntVhJ8T/php2.png" height="90" alt="php logo" /></span>
-  <span><img src="https://i.postimg.cc/BbRs3Lhj/laravel.png" height="90" alt="laravel logo" /></span>
-  <span><img src="https://i.postimg.cc/tTZpMN5K/django.png" height="90" alt="django logo" /></span>
+
+[![Python](https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  [![Web Scraping](https://img.shields.io/badge/Web_Scraping-1A4B4B?style=for-the-badge&logo=webscraper&logoColor=white)](https://en.wikipedia.org/wiki/Web_scraping)  [![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-1B3B5A?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots)  [![PHP](https://img.shields.io/badge/PHP-4B3B66?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)  [![Laravel](https://img.shields.io/badge/Laravel-7A2F2F?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)  [![Django](https://img.shields.io/badge/Django-0B1D10?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+
 </div>
