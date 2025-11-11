@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300" />
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="70" />
 </div>
 
-
+<br/>
 <div align="center">
 
 [![Web Scraping](https://img.shields.io/badge/Web%20Scraping-1A1A1A?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Web_scraping)
