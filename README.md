@@ -16,5 +16,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Drizzle ORM](https://img.shields.io/badge/Drizzle-1A1A1A?style=for-the-badge&logo=drizzle&logoColor=white)](https://orm.drizzle.team)
 
 </div>
