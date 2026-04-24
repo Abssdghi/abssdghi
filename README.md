@@ -9,6 +9,7 @@
 [![Laravel](https://img.shields.io/badge/Laravel-1A1A1A?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Express.js](https://img.shields.io/badge/Express.js-1A1A1A?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
+[![React Native](https://img.shields.io/badge/React%20Native-1A1A1A?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-1A1A1A?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
 [![Web Scraping](https://img.shields.io/badge/Web%20Scraping-1A1A1A?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Web_scraping)
